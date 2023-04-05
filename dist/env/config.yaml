@@ -1,13 +1,13 @@
 # Please keep the following double quotes
 
 # Your mongodb address like 'mongodb://user:pwd@127.0.0.1:27017/ForwardBotDB'
-database_url : ""
+database_url : "mongodb+srv://forward:forward@cluster1.pgynkyr.mongodb.net/?retryWrites=true&w=majority"
 
 # The bot token that you get from BotFather
-bot_token :    ""
+bot_token :    "6039043446:AAEfqoWa9qjZst_vZ4-rn0uka9vitYOrozs"
 
 # Your telegram number ID, no quotes like 123456789
-me :
+me : 
 
 # Need notification, true / false
 notice :       true
